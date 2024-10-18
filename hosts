@@ -1,0 +1,66 @@
+################################################################
+# Isekai PiHole Blocker Host file                              #
+# Last updated: 2024-10-18 11:11:09 (UTC)                      #
+#                                                              #
+# Terms Of Use: https://pihole.isekai.id/terms.php             #
+# For questions please contact pihole [at] isekai.id           #
+################################################################
+#
+127.0.0.1 nekopoi.care
+127.0.0.1 www.nekopoi.care
+127.0.0.1  xvideos.red
+127.0.0.1 www.xvideos.red
+127.0.0.1 cdne-mobile.youjizz.com 
+127.0.0.1 www.cdne-mobile.youjizz.com
+127.0.0.1  youjizz.com 
+127.0.0.1 www.youjizz.com
+127.0.0.1  cdne-mobile.youjizz.com 
+127.0.0.1 www.cdne-mobile.youjizz.com
+127.0.0.1  cdn77-vid.xvideos-cdn.com 
+127.0.0.1 www.cdn77-vid.xvideos-cdn.com
+127.0.0.1  hanime1.me 
+127.0.0.1 www.hanime1.me
+127.0.0.1  vdownload-1.sb-cd.com 
+127.0.0.1 www.vdownload-1.sb-cd.com
+127.0.0.1  vdownload-13.sb-cd.com 
+127.0.0.1 www.vdownload-13.sb-cd.com
+127.0.0.1  vdownload-16.sb-cd.com 
+127.0.0.1 www.vdownload-16.sb-cd.com
+127.0.0.1  vdownload-17.sb-cd.com 
+127.0.0.1 www.vdownload-17.sb-cd.com
+127.0.0.1 vdownload-18.sb-cd.com 
+127.0.0.1 www.vdownload-18.sb-cd.com
+127.0.0.1  vdownload-19.sb-cd.com 
+127.0.0.1 www.vdownload-19.sb-cd.com
+127.0.0.1  vdownload-20.sb-cd.com 
+127.0.0.1 www.vdownload-20.sb-cd.com
+127.0.0.1  vdownload-21.sb-cd.com 
+127.0.0.1 www.vdownload-21.sb-cd.com
+127.0.0.1  vdownload-24.sb-cd.com 
+127.0.0.1 www.vdownload-25.sb-cd.com
+127.0.0.1  vdownload-25.sb-cd.com 
+127.0.0.1 www.vdownload-25.sb-cd.com
+127.0.0.1  vdownload-36.sb-cd.com 
+127.0.0.1 www.vdownload-36.sb-cd.com
+127.0.0.1  cdn77-pic.xvideos-cdn.com 
+127.0.0.1 www.cdn77-pic.xvideos-cdn.com
+127.0.0.1  profile-pics-cdn77.xvideos-cdn.com 
+127.0.0.1 www.profile-pics-cdn77.xvideos-cdn.com
+127.0.0.1  cdn77-vid-mp4.xvideos-cdn.com 
+127.0.0.1 www.cdn77-vid-mp4.xvideos-cdn.com
+127.0.0.1 xvideos.com
+127.0.0.1 facebook.com
+127.0.0.1 youtube.com
+127.0.0.1 twitter.com
+127.0.0.1 instagram.com
+127.0.0.1 m.youtube.com
+127.0.0.1 netflix.com
+127.0.0.1 iflix.com
+127.0.0.1 vidio.com
+127.0.0.1 pvzfusion.online
+127.0.0.1 lk21static.buzz
+127.0.0.1 lk21official.my
+127.0.0.1 vip.lk21online.mom
+127.0.0.1 tv2.lk21official.life
+127.0.0.1 tv3.lk21official.my
+# Number of entries: 57
